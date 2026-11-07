@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/zakat-php-anaam-livestock-table",
+  "description": "Classical Sa'imah Livestock Zakat Bracket Solver (Camels, Cattle, Sheep) (جدول فرائض زكاة الأنعام: الإبل والبقر والغنم)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
